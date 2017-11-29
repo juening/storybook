@@ -1,0 +1,11 @@
+{
+  "name": "storybooks",
+  "version": "1.0.0",
+  "description": "To share public or write private stories",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "Jue",
+  "license": "ISC"
+}
